@@ -5,7 +5,7 @@ import org.w3c.dom.ls.LSOutput;
 public class Instances {
     String name;                         // instance variable
 
-    // if there is no statifiers instance method oluyor
+    // if there is no specifier(static) instance method oluyor
 
 
   /*  {
