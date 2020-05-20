@@ -3,7 +3,7 @@ package IntervievQuestions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class FrequencyOfChars {
+public class String_FrequencyOfChars {
 
     /*
     Write a return method that can find the frequency of characters
