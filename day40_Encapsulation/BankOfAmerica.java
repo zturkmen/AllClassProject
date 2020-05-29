@@ -7,6 +7,7 @@ public class BankOfAmerica {
         EmployeeInfo Abdul = new EmployeeInfo();
         Abdul.setAddress("Virginia");
         Abdul.setSalary(12000.50);
+        System.out.println(Abdul.getAddress());
 
 
 

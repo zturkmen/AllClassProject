@@ -18,6 +18,24 @@ OutPut: "CD015ACCCG011899"
         String str1="DC501GCCCA098911";
         String str2="";
 
+      /*  char[]chars=str1.toCharArray();
+        Arrays.sort(chars);
+       // System.out.println(chars);
+        String str2=String.valueOf(chars);
+        System.out.println(str2);
+       */
+
+
+
+
+
+
+
+
+
+
+
+/*
         for(int i=0; i<str1.length();i++){
             str2+=""+str1.charAt(i);
             if(Character.isAlphabetic(str1.charAt(i)) && i<str1.length()-1){
@@ -58,7 +76,7 @@ OutPut: "CD015ACCCG011899"
 
 
 
-
+*/
 
 
 

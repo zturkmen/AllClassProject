@@ -28,7 +28,7 @@ public class InheritenceReview extends B {    // superclass must be call constru
     public InheritenceReview(String a){
 
        // super(19);     // int ve
-        super(19l);   //long
+        super(19000l);   //long
         System.out.println("String");  // string
 
     }
